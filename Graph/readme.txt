@@ -10,11 +10,7 @@ reads the vertices and the edges from a file and do the following
 	(5) Exit Program 
 ----
 How did i do it?
-
-After carefully reading the assignment instructions, and reading the lectures and the algorithms 
-i implemented the topological sort algorithms from chapter 9 lecture page 10
-the shortest path algorithms dijkstra's Algorithm from chapter 9 lecture page 42
-
+the shortest path algorithms dijkstra's Algorithm 
 
 -------------------------------
 how to compile ?
